@@ -1,3 +1,6 @@
+<div align="center">
+<img width="800" height="450" alt="내 손안의 똑똑한 인공지능 비서" src="https://github.com/user-attachments/assets/f6c0ec10-c553-4c7e-ae6e-861942c353ec" />
+  
 # 카카오 챗봇 (V2 Android 자체 버전 + Proxy 확장)
 
 <p align="center">
@@ -11,6 +14,8 @@
 </p>
 
 ---
+
+</div>
 
 ## 📋 프로젝트 개요
 
